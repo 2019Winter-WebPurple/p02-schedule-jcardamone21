@@ -1,0 +1,28 @@
+/*
+* Jennifer Cardamone
+* March 20, 2019
+* Schedule
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body { /* The backrground color */
+    background-color: floralwhite;
+}
+
+/* The border properties */
+table, td, th { border: 1px solid black; } 
+
+table { border-collapse: collapse; }
+
+/* The background color of the head */
+thead { background-color: lightpink; }
+
+/* The background color of the foot */
+tfoot { background-color: lavender; }
